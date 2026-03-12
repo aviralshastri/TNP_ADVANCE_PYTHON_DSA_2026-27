@@ -3,3 +3,4 @@
 | S.No | Assignment | Link |
 |------|------------|------|
 | 1 | Assignment 1 | [View](https://github.com/aviralshastri/TNP_ADVANCE_PYTHON_DSA_2026-27/blob/master/assignment_1/README.md) |
+| 2 | Assignment 2 | [View](https://github.com/aviralshastri/TNP_ADVANCE_PYTHON_DSA_2026-27/blob/master/assignment_2) |
